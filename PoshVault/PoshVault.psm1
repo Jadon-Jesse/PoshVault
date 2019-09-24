@@ -101,7 +101,3 @@ Function Get-FromVault {
     }
 
 }
-
-
-Export-ModuleMember -Function Lock-InVault
-Export-ModuleMember -Function Get-FromVault
